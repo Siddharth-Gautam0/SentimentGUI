@@ -1,6 +1,5 @@
 #Importing all libraries
 from tkinter import *
-import numpy
 import praw
 import tweepy
 import pandas as pd
